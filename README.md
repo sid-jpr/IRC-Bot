@@ -1,9 +1,7 @@
 ## IRC Bot
 IRC ***[Internet Relay Chat]*** is a application layer protocol used for exchanging messages over the internet.
 
-<p align="center">
-  <img height="200" src="image.png">
-</p>
+<img height="200" src="image.png">
 
 This is my implementation of the IRC Bot using ***Twisted***. It duplicates human interaction through automation and lists quotes from its directory when prompted by another user. 
 
